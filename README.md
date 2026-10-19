@@ -1,8 +1,10 @@
 # A Logarithmic Cone of Prime Differences
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23466400.svg)](https://doi.org/10.5281/zenodo.23466400)
+
 **An Expository Experiment on the Zeros of the Riemann Zeta Function** · Version 1.1 · October 2026
 
-Rodrigo Pino Osorio · Independent Researcher, Viña del Mar, Chile · 0009-0002-1294-9136ID [0009-0002-1294-9136](https://orcid.org/0009-0002-1294-9136)
+Rodrigo Pino Osorio · Independent Researcher, Viña del Mar, Chile · ORCID [0009-0002-1294-9136](https://orcid.org/0009-0002-1294-9136)
 
 [**Read the paper (PDF)**](paper/Pino_Osorio_2026_Logarithmic_Cone_v1.1.pdf) · [Notebooks](notebooks/) · [Cite](#cite)
 
@@ -67,7 +69,12 @@ The notebooks are deterministic with fixed seeds. A full run takes about 18 minu
 
 ## Cite
 
-See [`CITATION.cff`](CITATION.cff), or use GitHub's *Cite this repository* button. The repository is archived on Zenodo with each release; the DOI will be listed here.
+See [`CITATION.cff`](CITATION.cff), or use GitHub's *Cite this repository* button. The repository is archived on Zenodo with each release.
+
+- **Version 1.1:** [https://doi.org/10.5281/zenodo.23466400](https://doi.org/10.5281/zenodo.23466400)
+- **All versions** (always resolves to the latest): [https://doi.org/10.5281/zenodo.23466399](https://doi.org/10.5281/zenodo.23466399)
+
+> Pino Osorio, R. (2026). *A Logarithmic Cone of Prime Differences: An Expository Experiment on the Zeros of the Riemann Zeta Function* (Version 1.1). Zenodo. https://doi.org/10.5281/zenodo.23466400
 
 ## License
 
