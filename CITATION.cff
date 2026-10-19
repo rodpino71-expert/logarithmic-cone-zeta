@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "A Logarithmic Cone of Prime Differences: An Expository Experiment on the Zeros of the Riemann Zeta Function"
+version: "1.1"
+date-released: "2026-10-17"
+authors:
+  - family-names: "Pino Osorio"
+    given-names: "Rodrigo"
+    affiliation: "Independent Researcher, Viña del Mar, Chile"
+    email: "paropc71@hotmail.com"
+    orcid: "https://orcid.org/0009-0002-1294-9136"
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/rodpino71-expert/logarithmic-cone-zeta"
+keywords:
+  - prime numbers
+  - Riemann zeta function
+  - explicit formula
+  - spectral analysis
+  - reproducible research

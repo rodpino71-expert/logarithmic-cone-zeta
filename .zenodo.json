@@ -1,0 +1,17 @@
+{
+  "title": "A Logarithmic Cone of Prime Differences: An Expository Experiment on the Zeros of the Riemann Zeta Function",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "version": "1.1",
+  "language": "eng",
+  "license": "cc-by-4.0",
+  "description": "The matrix of differences p_j − p_i of the primes opens like a cone, the Prime Number Theorem written geometrically. We subtract the cone and ask whether its residual carries the oscillations predicted by the explicit formula of Riemann and von Mangoldt. It does. We report the full path: negative and positive controls, two pitfalls found and corrected, and a pre-registered confirmation on 16 previously unexamined zeros that met two of its three criteria and failed the robustness test on half-windows. Text and figures: CC BY 4.0. Code: MIT.",
+  "creators": [
+    {
+      "name": "Pino Osorio, Rodrigo",
+      "affiliation": "Independent Researcher, Viña del Mar, Chile",
+      "orcid": "0009-0002-1294-9136"
+    }
+  ],
+  "keywords": ["prime numbers", "Riemann zeta function", "explicit formula", "spectral analysis", "reproducible research"]
+}
